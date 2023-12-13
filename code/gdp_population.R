@@ -62,8 +62,3 @@ ggplot(gapminder_data) +
   labs(y="Life Expectency", title = "Life Expectency by Year") +
   geom_point()
 
-# git remote add origin https://github.com/nbrdsong/un-report.git
-# git branch -M main
-# git push -u origin main
-
-# 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
