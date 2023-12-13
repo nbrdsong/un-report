@@ -1,5 +1,5 @@
 #Script to analyze relationship between GDP and Life Expectency
-#This is just for learning GitHub stuff, FYI
+#This is just for learning GitHub stuff.
 
 library(tidyverse)
 library(readr)
@@ -61,3 +61,9 @@ ggplot(gapminder_data) +
   aes(x=year, y=lifeExp, color=continent) +
   labs(y="Life Expectency", title = "Life Expectency by Year") +
   geom_point()
+
+# git remote add origin https://github.com/nbrdsong/un-report.git
+# git branch -M main
+# git push -u origin main
+
+# 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
