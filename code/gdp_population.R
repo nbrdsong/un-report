@@ -1,3 +1,6 @@
+#Script to analyze relationship between GDP and Life Expectency
+#This is just for learning GitHub stuff, FYI
+
 library(tidyverse)
 library(readr)
 
